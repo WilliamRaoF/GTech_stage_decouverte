@@ -19,16 +19,6 @@
 
 ------------------------------------------------------------------------
 
-## Programme de la journée
-
-  Horaire         Sujet
-  --------------- ---------------------------------------
-  09h00 - 10h30   Découverte d'Unreal Engine
-  10h45 - 12h00   Introduction aux Blueprints
-  13h00 - 14h30   Atelier Gameplay
-  14h45 - 16h00   Brainstorming et conception du projet
-
-------------------------------------------------------------------------
 
 ## 1. Présentation d'Unreal Engine
 
