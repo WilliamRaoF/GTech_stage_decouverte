@@ -1,8 +1,7 @@
 # Formation Unreal Engine 5 Blueprint
 
-## Jour 1 - Découverte du moteur et initiation au gameplay
+## Découverte du moteur et initiation au gameplay
 
-**Durée :** 6 heures
 
 ------------------------------------------------------------------------
 
