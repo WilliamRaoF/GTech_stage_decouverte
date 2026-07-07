@@ -581,7 +581,7 @@ Et avoir réalisé :
 
 ------------------------------------------------------------------------
 
-## Préparation du Jour 2
+## Préparation du Jour 3
 
 **Objectif :**
 
